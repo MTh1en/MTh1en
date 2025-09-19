@@ -6,7 +6,7 @@
 - 🎓 New graduate seeking a full-time Backend Developer position.
 - 🌱 My focus is on building robust and scalable backend systems.
 - 💬 Ask me about **Java**, **Spring Boot**, **.NET**, **cloud deployment**, and **AI integration**.
-- 📫 How to reach me: **mt12122003@gmail.com**
+- 📫 How to reach me: **trannguyenminhthien.it@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
